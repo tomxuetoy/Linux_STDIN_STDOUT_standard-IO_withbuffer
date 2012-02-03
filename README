@@ -1,0 +1,10 @@
+gcc getcputc.c libapue.a
+
+
+执行方式如下：
+(1) ./a.out
+(2) ./a.out > data
+(3) ./a.out < infile > outfile
+
+
+ctrl+D 结束
